@@ -32,4 +32,5 @@ async def on_ready():
 if __name__ == "__main__":
     init_db()
     load_cogs()
-    bot.run("MTQwODA4NTI1NzM5MDkxOTc3MQ.G2jBwE.X8ph8hxofsnorTKyxvwlqSjFVt7ct--Xu7OCDo")
+
+    bot.run("token")
